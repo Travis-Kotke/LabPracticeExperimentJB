@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {}
+    "C:\\Users\\carso\\classRepos\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {
+    "C:\\Users\\carso\\classRepos\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
+        "projectUniqueName": "C:\\Users\\carso\\classRepos\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
         "projectName": "LabPracticeExperimentJB",
-        "projectPath": "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
-        "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\obj\\",
+        "projectPath": "C:\\Users\\carso\\classRepos\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
+        "packagesPath": "C:\\Users\\carso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carso\\classRepos\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\carso\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0-android",
@@ -34,12 +34,12 @@
             "projectReferences": {}
           },
           "net10.0-ios": {
-            "framework": "net10.0-ios27.0",
+            "framework": "net10.0-ios26.5",
             "targetAlias": "net10.0-ios",
             "projectReferences": {}
           },
           "net10.0-maccatalyst": {
-            "framework": "net10.0-maccatalyst27.0",
+            "framework": "net10.0-maccatalyst26.5",
             "targetAlias": "net10.0-maccatalyst",
             "projectReferences": {}
           },
@@ -72,7 +72,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.110, )"
+              "version": "[10.0.20, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -380,7 +380,7 @@
           }
         },
         "net10.0-ios": {
-          "framework": "net10.0-ios27.0",
+          "framework": "net10.0-ios26.5",
           "targetAlias": "net10.0-ios",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
@@ -389,7 +389,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.110, )"
+              "version": "[10.0.20, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -697,7 +697,7 @@
           }
         },
         "net10.0-maccatalyst": {
-          "framework": "net10.0-maccatalyst27.0",
+          "framework": "net10.0-maccatalyst26.5",
           "targetAlias": "net10.0-maccatalyst",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
@@ -706,7 +706,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.110, )"
+              "version": "[10.0.20, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -1024,7 +1024,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.110, )"
+              "version": "[10.0.20, )"
             }
           },
           "imports": [
