@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kotketr93\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {}
+    "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kotketr93\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {
+    "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kotketr93\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
+        "projectUniqueName": "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
         "projectName": "LabPracticeExperimentJB",
-        "projectPath": "C:\\Users\\kotketr93\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
-        "packagesPath": "C:\\Users\\kotketr93\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kotketr93\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\obj\\",
+        "projectPath": "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\LabPracticeExperimentJB.csproj",
+        "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexb\\CS Projects\\CS 341\\LabPracticeExperimentJB\\LabPracticeExperimentJB\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kotketr93\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0-android",
@@ -29,7 +24,6 @@
           "net10.0-windows10.0.19041.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -40,12 +34,12 @@
             "projectReferences": {}
           },
           "net10.0-ios": {
-            "framework": "net10.0-ios26.5",
+            "framework": "net10.0-ios27.0",
             "targetAlias": "net10.0-ios",
             "projectReferences": {}
           },
           "net10.0-maccatalyst": {
-            "framework": "net10.0-maccatalyst26.5",
+            "framework": "net10.0-maccatalyst27.0",
             "targetAlias": "net10.0-maccatalyst",
             "projectReferences": {}
           },
@@ -78,12 +72,12 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.11, )",
+              "version": "[10.0.12, )",
               "autoReferenced": true
             }
           },
@@ -109,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -386,7 +380,7 @@
           }
         },
         "net10.0-ios": {
-          "framework": "net10.0-ios26.5",
+          "framework": "net10.0-ios27.0",
           "targetAlias": "net10.0-ios",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
@@ -395,12 +389,12 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.11, )",
+              "version": "[10.0.12, )",
               "autoReferenced": true
             }
           },
@@ -426,7 +420,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -703,7 +697,7 @@
           }
         },
         "net10.0-maccatalyst": {
-          "framework": "net10.0-maccatalyst26.5",
+          "framework": "net10.0-maccatalyst27.0",
           "targetAlias": "net10.0-maccatalyst",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
@@ -712,12 +706,12 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.11, )",
+              "version": "[10.0.12, )",
               "autoReferenced": true
             }
           },
@@ -744,7 +738,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1030,7 +1024,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             }
           },
           "imports": [
@@ -1058,7 +1052,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
