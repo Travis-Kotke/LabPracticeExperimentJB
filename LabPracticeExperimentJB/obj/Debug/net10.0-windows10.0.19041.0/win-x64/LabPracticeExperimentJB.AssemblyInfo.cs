@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabPracticeExperimentJB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+eee92cb13ca5a502aadc4bc0e5208b4ec68debca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+23ed3ce5f9be6ac1e8d48aa3fec36669a7c6701d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabPracticeExperimentJB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabPracticeExperimentJB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
