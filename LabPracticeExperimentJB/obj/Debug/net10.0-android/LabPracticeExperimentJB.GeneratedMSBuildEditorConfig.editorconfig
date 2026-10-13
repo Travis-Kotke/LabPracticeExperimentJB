@@ -79,6 +79,16 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/Users/alexb/CS Projects/CS 341/LabPracticeExperimentJB/LabPracticeExperimentJB/PageB.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LabPracticeExperimentJB.PageB.xaml
+build_metadata.AdditionalFiles.TargetPath = PageB.xaml
+build_metadata.AdditionalFiles.RelativePath = PageB.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/alexb/CS Projects/CS 341/LabPracticeExperimentJB/LabPracticeExperimentJB/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LabPracticeExperimentJB.Resources.Styles.Colors.xaml
