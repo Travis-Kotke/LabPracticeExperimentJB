@@ -9,10 +9,11 @@
     android:TabbedPage.ToolbarPlacement="Bottom">
 
     <local:HomePage Title="Home" />
-    <local:PageD Title="Page D" />
 
     <local:PageA Title="PageA" />
     <local:PageB Title="PageB" />
     <local:PageC Title="PageC" />
+    <local:PageD Title="Page D" />
+    
 </TabbedPage>
 
