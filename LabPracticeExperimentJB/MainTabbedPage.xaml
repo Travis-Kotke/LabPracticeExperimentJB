@@ -11,4 +11,8 @@
     <local:HomePage Title="Home" />
     <local:PageD Title="Page D" />
 
+    <local:PageA Title="PageA" />
+    <local:PageB Title="PageB" />
+    <local:PageC Title="PageC" />
 </TabbedPage>
+
